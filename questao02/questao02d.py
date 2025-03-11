@@ -26,7 +26,6 @@ def retorna_qtd(caminho):
     for seq in lista_seq: 
         if seq['TEM_ ATGCCA'] == 'False':
             qdt += 1
-    
     return qdt
 
 
