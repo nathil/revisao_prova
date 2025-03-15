@@ -26,4 +26,3 @@ def retorna_salario(lista):
     return nova_lista
 
 print(retorna_salario(lista))
-
