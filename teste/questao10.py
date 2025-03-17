@@ -28,6 +28,3 @@ def funcao(lista):
     return nova_lista
 
 print(funcao(lista))
-
-        
-
